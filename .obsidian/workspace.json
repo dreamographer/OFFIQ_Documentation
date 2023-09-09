@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OFFIQ/Modules.md",
+                "file": "OFFIQ/Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHATGPT.md",
+                "file": "OFFIQ/Research.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "19f497428f0b46d3",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHATGPT.md",
+                "file": "OFFIQ/Research.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHATGPT.md",
+                "file": "OFFIQ/Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHATGPT.md"
+                "file": "OFFIQ/Research.md"
               }
             }
           }
@@ -160,14 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98dc23f67fa83705",
+  "active": "6d98d6cc8105c8e8",
   "lastOpenFiles": [
-    "OFFIQ/Research.md",
-    "OFFIQ/Modules.md",
     "OFFIQ/Timeline.md",
+    "OFFIQ/Modules.md",
+    "OFFIQ/Research.md",
+    "CHATGPT.md",
     "OFFIQ.md",
     "Untitled.canvas",
-    "CHATGPT.md",
     "give me the modules that is needed for the project.md",
     "CHATGPT/all products my project.md",
     "CHATGPT/sevices can be added to the project.md",
