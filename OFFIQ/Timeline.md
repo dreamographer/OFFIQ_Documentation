@@ -1,5 +1,7 @@
-	_**week 1QQ
+# **week 1
 - shopping cart
+- Authentication
+- 
 
 # _**week 2_
 - search and Navigation

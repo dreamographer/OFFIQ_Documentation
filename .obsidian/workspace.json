@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OFFIQ/Research.md",
+                "file": "OFFIQ/Timeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OFFIQ/Research.md",
+                "file": "CHATGPT/Dated Timeline.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "19f497428f0b46d3",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OFFIQ/Research.md",
+                "file": "CHATGPT/Dated Timeline.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OFFIQ/Research.md",
+                "file": "CHATGPT/Dated Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OFFIQ/Research.md"
+                "file": "CHATGPT/Dated Timeline.md"
               }
             }
           }
@@ -160,9 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d98d6cc8105c8e8",
+  "active": "98dc23f67fa83705",
   "lastOpenFiles": [
     "OFFIQ/Timeline.md",
+    "CHATGPT/Dated Timeline.md",
     "OFFIQ/Modules.md",
     "OFFIQ/Research.md",
     "CHATGPT.md",
@@ -172,7 +173,6 @@
     "CHATGPT/all products my project.md",
     "CHATGPT/sevices can be added to the project.md",
     "CHATGPT/modules that is needed for the project.md",
-    "CHATGPT/Dated Timeline.md",
     "CHATGPT/give me the modules that is neeeded for the project.md",
     "CHATGPT",
     "OFFIQ",
