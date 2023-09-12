@@ -20,10 +20,11 @@
 	    - Allow users to update their profile information.
 
 
-## **USER Product Management Module**:
+## **USER Product and category  Management Module**:
 #USERProductManagementModule
 
 - Product catalog management
+- category management
 - Product detail pages with images and descriptions
 
 
@@ -44,19 +45,19 @@
 
 - Adding/removing products to/from the cart
 - Updating cart quantities
-- Calculating cart totals and taxes
+- Calculating cart totals 
 - Checkout process
 
 
 ## **Order Processing Module**:
 
 - Order history and status tracking
-- Order confirmation and email notifications
+- Order confirmation
 
 
 ## **Email Notifications Module**:
 
-- Sending order confirmations, shipping updates, and newsletters
+- Sending order confirmations, shipping updates
 - Email templates and customization options
 
 ## **Service Request Module**:
@@ -107,17 +108,7 @@
     
     - View and manage customer orders.
     - Process orders, update order status, and handle cancellations or refunds.
-    - Generate packing slips and shipping labels.
-
-
-
-- ## **Customer Management:**
-    
-    - Access and update customer profiles.
-    - View customer order history and activity.
-    - Handle customer inquiries and support requests.
-
 
 
 ## Analytics and Reporting:
-- Generate reports on sales, revenue
+  Generate reports on sales, revenue for mothly and daily report

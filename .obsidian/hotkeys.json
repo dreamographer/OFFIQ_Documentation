@@ -2,7 +2,8 @@
   "obsidian-git:commit": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "C"
     }
