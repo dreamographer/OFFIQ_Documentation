@@ -60,12 +60,6 @@
 - Sending order confirmations, shipping updates
 - Email templates and customization options
 
-## **Service Request Module**:
-
-- Form for requesting maintenance or repair services
-- Service request tracking and updates
-- Service provider assignment and scheduling
-
 
 ## **Payment Gateway Integration Module**:
 
