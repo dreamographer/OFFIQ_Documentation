@@ -1,7 +1,7 @@
 # **week 1
 - Authentication
 - User Product and category Management
-- Product Reviews and Ratings Module
+- product management (admin)
 - shopping cart
 
 # _**week 2_
@@ -19,4 +19,4 @@
 # _**week 4
  - user Management (admin)
  - analytics and reporting
-- product management (admin)
+-  Product Reviews and Ratings Module

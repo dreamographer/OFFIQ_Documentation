@@ -6,7 +6,7 @@
       {
         "id": "c7ab4dc21337fb5c",
         "type": "tabs",
-        "dimension": 19.569471624266143,
+        "dimension": 80.43052837573386,
         "children": [
           {
             "id": "6d98d6cc8105c8e8",
@@ -15,6 +15,42 @@
               "type": "markdown",
               "state": {
                 "file": "OFFIQ/Timeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e9f235d44019ed1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHATGPT/all products my project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ed22adf7e23f091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CHATGPT/Mongo DB  modal schema fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ceee7e2c541e28f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OFFIQ/WEEK 1/Day ONE PENDING WORKS.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,12 +68,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "8dca5a350172f2fe",
         "type": "tabs",
-        "dimension": 80.43052837573386,
+        "dimension": 19.569471624266143,
         "children": [
           {
             "id": "762d25d8122976bd",
@@ -142,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OFFIQ/Modules.md",
+                "file": "OFFIQ/WEEK 1/Day ONE PENDING WORKS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OFFIQ/Modules.md",
+                "file": "OFFIQ/WEEK 1/Day ONE PENDING WORKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OFFIQ/Modules.md"
+                "file": "OFFIQ/WEEK 1/Day ONE PENDING WORKS.md"
               }
             }
           },
@@ -214,18 +251,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd8abfa353cc5caf",
+  "active": "ceee7e2c541e28f1",
   "lastOpenFiles": [
-    "OFFIQ/Research.md",
-    "Categories.md",
+    "OFFIQ/WEEK 1",
+    "CHATGPT/Mongo DB  modal schema fields.md",
+    "OFFIQ/WEEK 1/Day ONE PENDING WORKS.md",
+    "CHATGPT/all products my project.md",
     "OFFIQ/Modules.md",
     "OFFIQ/Timeline.md",
+    "OFFIQ/Research.md",
+    "Categories.md",
     "CHATGPT/Dated Timeline.md",
     "CHATGPT.md",
     "OFFIQ.md",
     "Untitled.canvas",
     "give me the modules that is needed for the project.md",
-    "CHATGPT/all products my project.md",
     "CHATGPT/sevices can be added to the project.md",
     "CHATGPT/modules that is needed for the project.md",
     "CHATGPT/give me the modules that is neeeded for the project.md",
