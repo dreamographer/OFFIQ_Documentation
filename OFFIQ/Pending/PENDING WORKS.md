@@ -1,0 +1,3 @@
+- PASSWORD SCHEMA VALIDATION
+- OTP invalid setup
+- 

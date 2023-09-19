@@ -38,19 +38,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHATGPT/Mongo DB  modal schema fields.md",
+                "file": "OFFIQ/Modules.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ceee7e2c541e28f1",
+            "id": "93846392bb235a54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OFFIQ/WEEK 1/Day ONE PENDING WORKS.md",
+                "file": "OFFIQ/Pending/PENDING WORKS.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#USERProductManagementModule",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OFFIQ/WEEK 1/Day ONE PENDING WORKS.md",
+                "file": "OFFIQ/Pending/PENDING WORKS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OFFIQ/WEEK 1/Day ONE PENDING WORKS.md",
+                "file": "OFFIQ/Pending/PENDING WORKS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OFFIQ/WEEK 1/Day ONE PENDING WORKS.md"
+                "file": "OFFIQ/Pending/PENDING WORKS.md"
               }
             }
           },
@@ -251,20 +251,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ceee7e2c541e28f1",
+  "active": "93846392bb235a54",
   "lastOpenFiles": [
-    "OFFIQ/WEEK 1",
-    "CHATGPT/Mongo DB  modal schema fields.md",
-    "OFFIQ/WEEK 1/Day ONE PENDING WORKS.md",
-    "CHATGPT/all products my project.md",
-    "OFFIQ/Modules.md",
-    "OFFIQ/Timeline.md",
+    "OFFIQ/Pending/PENDING WORKS.md",
     "OFFIQ/Research.md",
+    "OFFIQ/Modules.md",
+    "Untitled.canvas",
+    "OFFIQ/Pending",
+    "CHATGPT/Mongo DB  modal schema fields.md",
+    "CHATGPT/all products my project.md",
+    "OFFIQ/Timeline.md",
     "Categories.md",
     "CHATGPT/Dated Timeline.md",
     "CHATGPT.md",
     "OFFIQ.md",
-    "Untitled.canvas",
     "give me the modules that is needed for the project.md",
     "CHATGPT/sevices can be added to the project.md",
     "CHATGPT/modules that is needed for the project.md",
