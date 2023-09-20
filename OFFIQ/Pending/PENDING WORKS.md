@@ -1,3 +1,8 @@
 - PASSWORD SCHEMA VALIDATION
 - OTP invalid setup
 - responsiveness
+- give functionality for the search in user  management
+- update all the placeholders
+- implement search in the admin side
+- give comments in the html
+- update all the scripts in admin side
