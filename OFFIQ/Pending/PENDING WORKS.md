@@ -1,8 +1,22 @@
 - PASSWORD SCHEMA VALIDATION
 - OTP invalid setup
+- forgot password
 - responsiveness
+- form validation with real time check
+- show passeword option
 - give functionality for the search in user  management
 - update all the placeholders
 - implement search in the admin side
 - give comments in the html
 - update all the scripts in admin side
+- update title
+- review the design
+- set favicon
+- setup forgot password
+- update admin design , add some texts headings
+- search in the admin side left
+- add logo to the gogle auth 
+- category name exists error page
+- 404 error page
+- default selection in product page edit
+- delete option in category and product

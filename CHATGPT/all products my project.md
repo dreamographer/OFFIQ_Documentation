@@ -8,7 +8,8 @@ For your e-commerce project "OFFIQ," which focuses on office equipment, especial
     - All-in-One Printers (Multifunction Printers)
     - Large-Format Printers (Wide-Format Printers)
     - 3D Printers
-2. **Office Furniture**:
+    - 
+1. **Office Furniture**:
     
     - Desks and Workstations
     - Office Chairs
