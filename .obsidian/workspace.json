@@ -4,60 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7ab4dc21337fb5c",
+        "id": "049064aebe887190",
         "type": "tabs",
-        "dimension": 80.43052837573386,
         "children": [
           {
-            "id": "6d98d6cc8105c8e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OFFIQ/Timeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e9f235d44019ed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHATGPT/all products my project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ed22adf7e23f091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OFFIQ/Modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93846392bb235a54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHATGPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbfc50801df99e56",
+            "id": "8cddf9fe57a76cea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -67,65 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "98dc23f67fa83705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CHATGPT/Dated Timeline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "8dca5a350172f2fe",
-        "type": "tabs",
-        "dimension": 19.569471624266143,
-        "children": [
-          {
-            "id": "762d25d8122976bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OFFIQ/Modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd8abfa353cc5caf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OFFIQ/Modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "169b1e12a4a33ac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Categories.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,24 +157,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbfc50801df99e56",
+  "active": "8cddf9fe57a76cea",
   "lastOpenFiles": [
-    "Untitled.md",
-    "OFFIQ/Pending/PENDING WORKS.md",
-    "OFFIQ/Timeline.md",
     "CHATGPT/all products my project.md",
+    "CHATGPT.md",
+    "OFFIQ/Pending/PENDING WORKS.md",
+    "Categories.md",
+    "OFFIQ/Modules.md",
+    "CHATGPT/Dated Timeline.md",
+    "OFFIQ/Timeline.md",
+    "OFFIQ.md",
+    "Untitled.md",
     "CHATGPT/modules that is needed for the project.md",
     "CHATGPT/Mongo DB  modal schema fields.md",
     "CHATGPT/sevices can be added to the project.md",
-    "OFFIQ/Modules.md",
     "OFFIQ/Research.md",
     "CHATGPT/linked IN.md",
-    "CHATGPT.md",
-    "OFFIQ.md",
     "Untitled.canvas",
     "OFFIQ/Pending",
-    "Categories.md",
-    "CHATGPT/Dated Timeline.md",
     "give me the modules that is needed for the project.md",
     "CHATGPT/give me the modules that is neeeded for the project.md",
     "CHATGPT",

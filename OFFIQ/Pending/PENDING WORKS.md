@@ -20,3 +20,7 @@
 - 404 error page
 - default selection in product page edit
 - delete option in category and product
+- remove logs
+- offer addidion  promo code idiscount in check out page
+- add to cart in cart quantity increase bug
+- cart empty option on cart
