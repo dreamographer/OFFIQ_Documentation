@@ -24,3 +24,13 @@
 - offer addidion  promo code idiscount in check out page
 - add to cart in cart quantity increase bug
 - cart empty option on cart
+- validation for new password
+- bug in adding image
+- edit optioion for addresses
+- set timeout for resend otp
+- same sub category check
+- order page bug
+- same name product check
+- image validatiuon of content
+- user profile update
+- pdf for invoice
