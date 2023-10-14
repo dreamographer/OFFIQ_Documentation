@@ -34,3 +34,13 @@
 - image validatiuon of content
 - user profile update
 - pdf for invoice
+- make address tag uniq
+- handle no address scenario
+- form validation coupon
+- edit coupon
+- add product quatity after cancell
+- minimum value check in coupon
+- out of stock buy handle
+- rating of products
+- indivudual page for serch
+- different controllers
