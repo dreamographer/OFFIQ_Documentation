@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb2515fcca4e2d27",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cddf9fe57a76cea",
+  "active": "fb2515fcca4e2d27",
   "lastOpenFiles": [
     "Categories.md",
     "OFFIQ/Pending/PENDING WORKS.md",

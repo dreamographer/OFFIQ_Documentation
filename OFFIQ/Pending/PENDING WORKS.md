@@ -43,4 +43,7 @@
 - out of stock buy handle
 - rating of products
 - indivudual page for serch
-- different controllers
+- different controllers'
+- balance not awailble 
+- add multiple chart
+- dedicated search result page
