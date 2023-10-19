@@ -47,3 +47,7 @@
 - balance not awailble 
 - add multiple chart
 - dedicated search result page
+- bug in sort pagination
+- 2 wallet data getting added
+- no order message in order history
+- 
