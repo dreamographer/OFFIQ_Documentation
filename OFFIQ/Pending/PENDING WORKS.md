@@ -1,53 +1,67 @@
-- PASSWORD SCHEMA VALIDATION
-- OTP invalid setup
-- forgot password
+- ~~PASSWORD SCHEMA VALIDATION
+- ~~OTP invalid setup
+- ~~forgot password
+- - ~~different controllers'
+- ~~balance not awailble 
+- ~~add multiple chart
+- ~~dedicated search result page
+- ~~bug in sort pagination
+- ~~2 wallet data getting added
+- ~~form validation with real time check
+- ~~give functionality for the search in user  management
+- ~~implement search in the admin side
+- ~~setup forgot password
+- - ~~404 error page
+- ~~default selection in product page edit
+- ~~delete option in category and product
+- ~~remove logs
+- ~~offer addidion  promo code idiscount in check out page
+- ~~add to cart in cart quantity increase bug
+- ~~cart empty option on cart
+- - ~~bug in adding image
+- ~~edit option for addresses
+- ~~set timeout for resend otp
+- - ~~pdf for invoice
+- ~~make address tag unique
+- ~~handle no address scenario
+- ~~form validation coupon
+- - ~~edit coupon
+- ~~add product quantity after cancel
+- ~~minimum value check in coupon
+- ~~out of stock buy handle
+- ~~order page bug
+
+
+
 - responsiveness
-- form validation with real time check
 - show passeword option
-- give functionality for the search in user  management
 - update all the placeholders
-- implement search in the admin side
 - give comments in the html
 - update all the scripts in admin side
 - update title
 - review the design
-- set favicon
-- setup forgot password
 - update admin design , add some texts headings
 - search in the admin side left
 - add logo to the gogle auth 
 - category name exists error page
-- 404 error page
-- default selection in product page edit
-- delete option in category and product
-- remove logs
-- offer addidion  promo code idiscount in check out page
-- add to cart in cart quantity increase bug
-- cart empty option on cart
 - validation for new password
-- bug in adding image
-- edit optioion for addresses
-- set timeout for resend otp
 - same sub category check
-- order page bug
 - same name product check
-- image validatiuon of content
+- image validation of content
 - user profile update
-- pdf for invoice
-- make address tag uniq
-- handle no address scenario
-- form validation coupon
-- edit coupon
-- add product quatity after cancell
-- minimum value check in coupon
-- out of stock buy handle
 - rating of products
-- indivudual page for serch
-- different controllers'
-- balance not awailble 
-- add multiple chart
-- dedicated search result page
-- bug in sort pagination
-- 2 wallet data getting added
 - no order message in order history
-- 
+- PAge for wishlist
+- confirm passwords validation
+- pagination first page not highlighted
+- showing pagination even with no 
+- SEO
+- multiple filters
+- footer functionanlity
+- redirect to wishlist when wishlisted
+- header bug
+- update user profile '
+- category bug subcategory edit'
+- wishlist page responsive
+- order inspect error
+- signup responsive
